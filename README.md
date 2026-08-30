@@ -98,3 +98,16 @@ You should now have your own Nebula link!
 Find official Nebula links at: [Official Doc](https://bloatware.cc/seal)
 
 Find the official Nebula repo at: [Nebula Repo](https://github.com/sealgodreal/nebulabrowser)
+
+--
+
+#### Credits:
+ - MercuryWorkshop  :   **Scramjet**
+ - ChatGPT          :   **Nebula Learn!** (lol)
+ - Groq             :   **NebulaGPT**
+
+#### Socials:
+- [GitHub](https://github.com/sealgodreal) (you're on it right now)
+- [Discord](https://discord.com/users/1430633373357047997)
+- [TikTok](https://tiktok.com/@nebulaunbl0cking)
+- [YouTube](https://youtube.com/@nebulaunblocking)
