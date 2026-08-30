@@ -99,7 +99,7 @@ Find official Nebula links at: [Official Doc](https://bloatware.cc/seal)
 
 Find the official Nebula repo at: [Nebula Repo](https://github.com/sealgodreal/nebulabrowser)
 
---
+---
 
 #### Credits:
  - MercuryWorkshop  :   **Scramjet**
