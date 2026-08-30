@@ -1,7 +1,6 @@
 ### Hey, Welcome to _sealgod's dungeon_!
 #### I mostly provide useless services. But you should check out:
 
-
 # Nebula Unblocking
 
 > A sophisticated, generic "unblocked" site designed to evade network filters.
