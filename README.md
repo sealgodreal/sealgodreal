@@ -1,6 +1,7 @@
 ### Hey, Welcome to _sealgod's dungeon_!
 #### I mostly provide useless services. But you should check out:
 
+
 # Nebula Unblocking
 
 > A sophisticated, generic "unblocked" site designed to evade network filters.
@@ -96,4 +97,5 @@ You should now have your own Nebula link!
 ---
 
 Find official Nebula links at: [Official Doc](https://bloatware.cc/seal)
+
 Find the official Nebula repo at: [Nebula Repo](https://github.com/sealgodreal/nebulabrowser)
