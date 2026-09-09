@@ -103,7 +103,6 @@ Find the official Nebula repo at: [Nebula Repo](https://github.com/sealgodreal/n
 #### Credits:
  - MercuryWorkshop  :   **Scramjet**
  - ChatGPT          :   **Nebula Learn!** (lol)
- - Groq             :   **NebulaGPT**
 
 #### Socials:
 - [GitHub](https://github.com/sealgodreal) (you're on it right now)
